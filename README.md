@@ -1,4 +1,5 @@
 # BHP-GUI
+BHP desktop Wallet
 
 ```
 First of all http://localhost:8080 change to your node IP in globalIP.js
